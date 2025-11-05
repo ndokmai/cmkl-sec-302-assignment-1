@@ -15,3 +15,4 @@ Then, run Jupyter Notebook
 ```
 uv run --with jupyter jupyter notebook
 ```
+Complete Task A in `task_a.ipynb` and Task B in `task_b.ipynb`.
